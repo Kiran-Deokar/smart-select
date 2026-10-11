@@ -742,7 +742,8 @@ async function onInputChange(q: string) {
                 code={`# 1. Install Node Modules
 npm install selectify-kit
 
-# 2. Import `}
+// 2. Import Selectify Kit
+import { Selectify } from 'selectify-kit';`}
               >
                 <div className="rounded-xl bg-slate-50 border border-slate-100 p-4 text-sm text-slate-600 space-y-2">
                   <p>

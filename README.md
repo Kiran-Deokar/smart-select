@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Smart Select
 
 A flexible, accessible React select with **30+ features**.
@@ -226,3 +227,6 @@ The menu is rendered with `createPortal(..., document.body)` and `z-index: 21474
 ## License
 
 MIT
+=======
+# smart-select
+>>>>>>> 3d1916370e8a08e17d70d59e0f9ef6551765d307
