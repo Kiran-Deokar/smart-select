@@ -1,13 +1,10 @@
 {
   "name": "selectify-kit",
   "version": "1.0.0",
-  "description": "Flexible React select with multi-select display modes (all chips or count + tooltip) and creatable support without duplicate options",
+  "description": "Flexible React select with multi-select display modes and creatable support",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
-  // "files": [
-  //   "dist"
-  // ],
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
