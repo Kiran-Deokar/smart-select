@@ -35,8 +35,5 @@
     "dropdown",
     "tags"
   ],
-  "license": "MIT",
-  "dependencies": {
-    "selectify-kit": "^1.0.1"
-  }
+  "license": "MIT"
 }
