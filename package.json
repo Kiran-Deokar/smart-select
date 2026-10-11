@@ -5,9 +5,7 @@
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
-  // "files": [
-  //   "dist"
-  // ],
+ 
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
