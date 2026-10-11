@@ -1,0 +1,42 @@
+{
+  "name": "selectify-kit",
+  "version": "1.0.0",
+  "description": "Flexible React select with multi-select display modes (all chips or count + tooltip) and creatable support without duplicate options",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "peerDependencies": {
+    "react": ">=17.0.0",
+    "react-dom": ">=17.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@vitejs/plugin-react": "^4.2.0",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.4.0",
+    "typescript": "^5.3.0",
+    "vite": "^5.0.0"
+  },
+  "keywords": [
+    "react",
+    "select",
+    "multiselect",
+    "creatable",
+    "dropdown",
+    "tags"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "selectify-kit": "^1.0.1"
+  }
+}
